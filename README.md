@@ -18,5 +18,5 @@ The end result is shown in the file `tidy.txt`.
 ## Files in Repository
 1. `ReadMe.md`: Explanation about the repository and Code.
 2. `Run_analysis.R`: Code in R
-3. `CookBook.md`: Variables in the data set
+3. `CookBook.md`: Variables in the dataset
 4. `Tidy.txt`: Dataset 
