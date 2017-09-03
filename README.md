@@ -14,3 +14,9 @@ The R script, `run_analysis.R` does the following steps:
    variable for each subject and activity pair.
 
 The end result is shown in the file `tidy.txt`.
+
+## Files in Repository
+`ReadMe.md`: Explanation about the repository and Code.
+`Run_analysis.R`: Code in R
+`CookBook.md`: Variables in the data set
+`Tidy.txt`: Dataset 
